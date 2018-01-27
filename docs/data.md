@@ -8,7 +8,7 @@ Cities should be referred to them by name and country (in case of namesakes), na
 
 Cities should be able to present or link to their public institutional website; I think also a quick way to send feedbacks should be present therefore there should be contact info like addresses, phone numbers and maybe opening hours and days.
 
-A list of "subcities" should be present as those may have other collection policies. Here in Italy we have the [__comune__](https://en.wikipedia.org/wiki/Comune) and several smaller [__frazioni__](https://en.wikipedia.org/wiki/Frazione) inside of it.
+A list of "subcities" should be present as those may have other collection policies. Here in Italy we have the [__comune__](https://en.wikipedia.org/wiki/Comune) and several smaller [__frazioni__](https://en.wikipedia.org/wiki/Frazione) inside of it and in several (if not all) of them the collection days are different.
 
 ## Example of a City model
 
